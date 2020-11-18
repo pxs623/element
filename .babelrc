@@ -29,9 +29,9 @@
       ],
       "plugins": [
         ["module-resolver", {
-          "root": ["element-jsunicom-ui"],
+          "root": ["element-ui"],
           "alias": {
-            "element-jsunicom-ui/src": "element-jsunicom-ui/lib"
+            "element-ui/src": "element-ui/lib"
           }
         }]
       ]
